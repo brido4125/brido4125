@@ -8,6 +8,6 @@
 
 ### 🐯 About Me 🐯
 
-<a href="https://hongchangsub.com"><img src=""https://img.shields.io/badge/Tech%20Blog-blue?style=flat-square&logo=ghost&logoColor=white&link=https://hongchangsub.com""></a> <a href="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=hcs4125@gmail.com"></a>
+<a href="https://hongchangsub.com"><img src="https://img.shields.io/badge/Tech%20Blog-blue?style=flat-square&logo=ghost&logoColor=white&link=https://hongchangsub.com"></a> <a href="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=hcs4125@gmail.com"></a>
 
 
