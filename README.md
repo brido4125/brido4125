@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ChangSubHong&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=ChangSubHong&fontSize=70&animation=twinkling)
 
 
 ### 💻 About My Skills 💻
