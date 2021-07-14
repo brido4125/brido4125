@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 ##Hi there, I'm Brido! ☝️
 
 ### 💻 About My Skills 💻
@@ -12,6 +15,5 @@
 
 <a href="https://hongchangsub.com"><img src="https://img.shields.io/badge/Tech%20Blog-blue?style=flat-square&logo=ghost&logoColor=white&link=https://hongchangsub.com"></a> <a href="mailto:hcs4125@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:hcs4125@gmail.com"></a>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
