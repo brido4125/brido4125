@@ -1,3 +1,3 @@
-### 💻 About My Skills💻
+### 💻 About My Skills 💻
 
-<img src="https://img.shields.io/badge/Java-11B48A?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/Java-11B48A?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML5&logoColor=white"> <img="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"> 
