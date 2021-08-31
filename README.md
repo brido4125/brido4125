@@ -12,5 +12,6 @@
 
 <a href="https://hongchangsub.com"><img src="https://img.shields.io/badge/Tech%20Blog-blue?style=flat-square&logo=ghost&logoColor=white&link=https://hongchangsub.com"></a> <a href="mailto:hcs4125@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:hcs4125@gmail.com"></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brido4125)](https://github.com/anuraghazra/github-readme-stats)
 
 
